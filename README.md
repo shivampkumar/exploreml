@@ -7,5 +7,7 @@ Resource for today
 https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub
 
 Feedback for beginner track
-bit.ly/exploreml-s-post
+http://bit.ly/exploreml-s-post
+
+
 
