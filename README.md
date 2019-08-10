@@ -12,4 +12,10 @@ Feedback for intermediate track
 http://bit.ly/exploreml-s-post
 
 
+Pre workshop survey intermediate 
+http://bit.ly/exploreml-s-pre
+
+Overall feedback 
+https://forms.gle/H7nsU4ceuhCEuYQAA
+
 
