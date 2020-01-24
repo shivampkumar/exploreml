@@ -1,8 +1,11 @@
 # exploreml
 
 Today's Attendence
-https://forms.gle/CMpECBpdDYzVqE987
+https://forms.gle/LSmkEHUPt7AbaqY5A
 
+Pre Workshop Survey:
+
+bit.ly/exploreml-s-pre
 
 Resource for today
 https://www.tensorflow.org/tutorials/keras/basic_classification
