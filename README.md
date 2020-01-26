@@ -1,5 +1,7 @@
 # exploreml
 
+https://bit.ly/exploreml-s-post
+
 https://colab.research.google.com/drive/19NdupN2p5mXQu1zppmT8_baZDSQprUlP
 
 Today's Attendence
